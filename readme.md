@@ -52,10 +52,6 @@ This project is a store locator application that displays store locations on a m
 
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements, bug fixes, or improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at [your-anisahu99@gmail.com](mailto:anisahu99@gmail.com).
